@@ -1,5 +1,7 @@
 # Human-Resource-Analysis-using-MySQL-PowerBi
 The dataset is cleaned and queried using MYSQL and visualized using PowerBI
+![image](https://github.com/iaditi7/Human-Resource-Analysis-using-MySQL-PowerBi/assets/143906664/8a18ed97-4430-4349-87bc-166244087b12)
+
 
 The Questions solved with the queries:
 
